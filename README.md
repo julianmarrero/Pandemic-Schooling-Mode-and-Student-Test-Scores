@@ -9,4 +9,4 @@ RECREATING FIGURES:
 For the replication included in this repository, to access the clean data enter the Data folder. state_score_data.dta is the file containing the clean data provided by the original paper that this report is reproducing, and it is the dataset used for all of the analysis conducted. To conduct the analysis, click on the Scripts folder. To recreate Figure 1 in the report, use the Table1_replication.R file. To recreate Figure 2 in the report, use the Table2_replication.R file. To recreate Figure 3 in the report (the dot-plot), use the DotPlot.R file.
 
 USE OF LLM's:
-Github Copilot was used when creating the R scripts for creating the figures in the report. It was used to help with writing functions.
+Github Copilot was used when creating the R scripts for creating the figures in the report. It was used to help with writing functions and auto-completing lines of code.
